@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: nginx
-        image: 802632617768.dkr.ecr.ap-south-1.amazonaws.com/my-cloud-native-repo:latest
+        image: 802632617768.dkr.ecr.ap-south-1.amazonaws.com/project:latest
         ports:
         - containerPort: 80
